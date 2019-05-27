@@ -1,7 +1,8 @@
 NHibernate Example with C-Sharp
 -------------------------------
 
-In visual studio 2019, install following packages in NuGet console.
+- In visual studio 2019, install following packages in NuGet console.-
+- This example is using MySql 8.0.15 database
 
 PM> install-package NHibernate
 PM> install-package FluentNHibernate
